@@ -48,5 +48,5 @@ The discussion highlights that while LLMs can assist and augment human abilities
 
 ---
 
-Thank you for coming to my TED talk!
+Thank you for coming to my ~~TED~~ NSSpain talk!
 
