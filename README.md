@@ -21,6 +21,7 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 - [Gaudi appliances](https://www.designboom.com/design/artificial-intelligence-vibrant-household-appliances-gaudi-marcus-byrne-12-11-2022/0)
 - [Why AI Works](https://www.youtube.com/watch?v=QwtyIDmhxh4)
 - [Shoulders of Giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants#/media/File:Orion_aveugle_cherchant_le_soleil.jpg)
+- [Aldous Huxley's The Perennial Philosophy](https://en.wikipedia.org/wiki/Perennial_philosophy)
 - [Europe from Space](https://commons.wikimedia.org/wiki/File:Europe_From_Space_%2825965325795%29.png)
 - [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - [AI carbon consumption](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
