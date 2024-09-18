@@ -26,7 +26,7 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 - [AI carbon consumption](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
 - [iPad 2 launch](https://www.youtube.com/watch?v=AZeOhnTuq2I)
 - [Maybeck's first](https://trgtalk.wordpress.com/2014/10/13/still-teaching-its-lessons/)
-- [Johnny Appleseed story](https://www.disneyplus.com/browse/entity-c345991d-d605-4009-81aa-2a6606000e31) Starts at about 14:45 but read warning at the beginning.
+- [Johnny Appleseed song](https://www.disneyplus.com/browse/entity-c345991d-d605-4009-81aa-2a6606000e31) Starts at about 14:45 but read warning at the beginning.
 - [Modern interpretation of what Appleseed distributed](https://swedenborg.com/wp-content/uploads/2015/08/OD_Usefulness.pdf)
 - [Don't steal music](https://www.flickr.com/photos/dmolsen/227547892)
 
