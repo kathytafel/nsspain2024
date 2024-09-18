@@ -12,7 +12,10 @@ Resources for my talk "How to do things with words"
 - [How to do things with words](https://www.hup.harvard.edu/books/9780674411524)
 - [William James lectures](https://en.wikipedia.org/wiki/William_James_Lectures)
 - [Self-reliance](https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance)
-- [Civil Disobedience](https://en.wikisource.org/wiki/The_Writings_of_Henry_David_Thoreau_(1906)/Volume_4/Civil_Disobedience)
+- [Civil Disobedience](https://archive.org/details/civil-disobedience/mode/2up)
+- [Bernard Maybeck](https://www.americanheritage.com/bernard-maybeck)
+- [Sampson Reed](https://archive.org/details/observationsongr00reediala/mode/2up)
+- [Delphi](https://en.wikipedia.org/wiki/Delphi)
 
 ## Attribution
 - [Shoulders of Giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants#/media/File:Orion_aveugle_cherchant_le_soleil.jpg)
