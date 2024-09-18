@@ -1,7 +1,7 @@
 # nsspain2024
 Resources for my talk "How to do things with words" Sept 18, 2024
 
-## Source Material
+## Musings on LLMs 
 - [Initial conversations with ChatGPT](conversation.md)
 - [ChatGPT's summary of that conversation](summary_by_chatGPT.md)
 - [Errant Rambling](errant_rambling.md)
