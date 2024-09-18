@@ -9,7 +9,6 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 - [Suggested Authors](suggested_authors.md)
 
 ## Source Material
-- [Why AI Works](https://www.youtube.com/watch?v=QwtyIDmhxh4)
 - [How to do things with words](https://www.hup.harvard.edu/books/9780674411524)
 - [William James lectures](https://en.wikipedia.org/wiki/William_James_Lectures)
 - [Self-reliance](https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance)
@@ -20,6 +19,7 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 
 ## Attribution
 - [Gaudi appliances](https://www.designboom.com/design/artificial-intelligence-vibrant-household-appliances-gaudi-marcus-byrne-12-11-2022/0)
+- [Why AI Works](https://www.youtube.com/watch?v=QwtyIDmhxh4)
 - [Shoulders of Giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants#/media/File:Orion_aveugle_cherchant_le_soleil.jpg)
 - [Europe from Space](https://commons.wikimedia.org/wiki/File:Europe_From_Space_%2825965325795%29.png)
 - [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/)
