@@ -37,7 +37,7 @@ I haven't done that but maybe I will make a series out of that. Thanks for the s
 For people who don't know what that is, here is some context on [DSMOS](https://news.ycombinator.com/item?id=9589961).
 
 ### <a name="five">Question #5: Isn’t building on top of experiences and thoughts of our ancestors foundation of civilisation? It’s what chat bots are doing kind of</a>
-Yes, but one thing is you can't trademark or copyright an idea, only the specific instantiation of it with patents or copyrights. If you live in a country that has adopted the Berne convention or are and American you are subject to IP laws. You can argue about them, but in the US constitution it's phrased like this: 
+Yes, but one thing is you can't trademark or copyright an idea, only the specific instantiation of it with patents or copyrights. If you live in a country that has adopted the Berne convention or are an American you are subject to IP laws. You can argue about them, but in the US constitution it's phrased like this: 
 
 > [The Congress shall have Power . . . ] To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries.
 
