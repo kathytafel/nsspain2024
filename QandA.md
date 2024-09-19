@@ -1,10 +1,24 @@
+- [Question #1](#one): What’s the piece of (copy)writing you are most proud of?
+- [Question #2](#two): Did you compare if ChatGPT philosophical approach changed between it versions? Eg in version 4o?
+- [Question #3](#three): You mentioned that you gave chat some specific philosophers as point of reference but have you tried to modify question query for example specify “pretend that you are…” - it can highly impact type of responses
+- [Question #4](#four): DSMOS has arrived!
+- [Question #5](#five): Isn’t building on top of experiences and thoughts of our ancestors foundation of civilisation? It’s what chat bots are doing kind of
 
-### Question #1: What’s the piece of (copy)writing you are most proud of?
+### <a name="one">Question #1: What’s the piece of (copy)writing you are most proud of?</a>
+That Get a Mac campaign was the pinnacle of the writing chapter in my career. I resigned my position there for many reasons and it wasn't the proximate cause, but among those reasons was the sense that everything after would be a bit of a let-down. We knew that more consumer devices were coming and we would communicate ideas with fewer words and less geekiness. Steve alluded to this in the iPad 2 video that people don't care about speeds and feeds with these devices. Also there were so many products coming out that people couldn't read the depth of text we wrote for earlier launches, we'd need to have shallower thoughts for people to read more of them conserving the attention. I like going deep as you might discern from my talk.
 
-### Question #2: Did you compare if ChatGPT philosophical approach changed between it versions? Eg in version 4o?
+For that period, I also served as DRI for the Mac rebrand in Marcom. On one level I went as into the weeds as to convince the copy editors to stop replacing "Mac" with "Macintosh Computer" which they did because the lawyers told them to to protect the trademark. But nobody said Macintosh computer in everyday language. They say Mac. The transition to Intel computers was part of this work and we rebranded PowerBook as MacBook. The web site had grown from being just about Macs because that was all Apple did to including iPod and iTunes on Windows. We knew another big product line was coming, and coalesced the site to tell a coherent story. One thing that would happen is that product managers would want to talk about update features to generate sales, but that didn't help people buying a Mac understand the baseline features of Mac OS X, iLife, and .Mac. The Apple retail store had launched with Genius Bar and it was running off in its own process. People loved opening Apple products and talking about the unboxing experience. We shifted people away from just thinking about the hardware as Mac, instead, Mac is the entire experience from unboxing to using Mac OS X, iLife, and .Mac to the community learning at Apple Retail and getting help if you need it at the Genius Bar. This information architecture survives on apple.com today.
 
-### Question #3: You mentioned that you gave chat some specific philosophers as point of reference but have you tried to modify question query for example specify “pretend that you are…” - it can highly impact type of responses
+My writing contribution was the first draft of Top Ten Reasons You'll Love a Mac, which was displayed as a poster in Apple Retail windows. Ken Segall added some flair to it but  left most of my words, and the structure, alone. My first draft went to Chiat/Day to be used as a creative brief. And we made the ads into an ad campaign, which I wrote the Google Adwords for. But I'm really proud of the teamwork: all the writers reporting into me took one of the reasons and made a mini-site on it, which I edited, and all the designers and javascript developers on the team contributed to the project. This also included the trailers team who encoded the Mac vs PC videos on each mini-site. Though I was DRI, this all worked because of the leadership and taste in people from the director of Internet Communications, Dan Marusich. And it was Allison Johnson, who recently worked on a Kamala Harris video, who had the idea to mix in the Web team with Graphic Design, which led me to work with its leader Hiroki Asai, Sam Davy who art directed packaging photography, and Rick Vargas in Retail.
 
-### Question #4: DSMOS has arrived!
+I felt this was a nice bookend to the end of a time at Apple, the start being Games Partnership Manager in Developer Relations working with the Sprocket developers to get games technologies in the core of the system instead of as extensions. This included ensuring there were game controllers on the first iMac which was the first Mac with the new protocol USB. This was later abstracted into part of the HID manager when Mac OS X shipped. We also convinced Steve and game developers to adopt OpenGL, any technical decision that survives 18 years is probably pretty good. 
 
-### Question #5: Isn’t building on top of experiences and thoughts of our ancestors foundation of civilisation? It’s what chat bots are doing kind of
+I also felt that by the time Leopard came out that the Mac had everything it needed, Apple didn't need me to solve any more problems for it.
+
+<a name="two">### Question #2: Did you compare if ChatGPT philosophical approach changed between it versions? Eg in version 4o?</a>
+
+<a name="three">### Question #3: You mentioned that you gave chat some specific philosophers as point of reference but have you tried to modify question query for example specify “pretend that you are…” - it can highly impact type of responses</a>
+
+<a name="four">### Question #4: DSMOS has arrived!</a>
+
+<a name="five">### Question #5: Isn’t building on top of experiences and thoughts of our ancestors foundation of civilisation? It’s what chat bots are doing kind of</a>
