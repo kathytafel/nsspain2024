@@ -55,7 +55,7 @@ My more provocative opinion is that some computer scientists don't know how to d
 Copyright allows fair use for scholarly and critical ends, not wholesale copying of the whole body of work.
 
 ### <a name="six">Question #6]: I didn't get the point (this came up in conversations over wine)</a>
-I rarely do things for just one reason. I like overloading operators. Here are some points.
+I rarely do things for just one reason. I like overloading operators. Here are some points. (Also it's fair to give me feedback on the conclusion. At some point during the ChatGPT section my speaker notes disappeared and I had to speak to the slides from memory so I probably didn't say all I meant to.)
 
 1. I wanted to provoke your thoughts so you would think about the topic and draw your own conclusions.
 2. Relatedly, I wanted to demonstrate a talk whose purpose it is to provoke thought in the audience as an alternate to other talk formats, using techniques from the tradition I was raised in which I learned mostly by watching my father, a fourth-generation theologian. He once said of a continuing education course at Harvard with Huston Smith: you don't go to college to get answers but to learn how to ask better questions. So I succeeded if you are thinking about the topic and wondering what the right answer is. It is also a technique to prepare a ChatGPT conversation for more interesting results.
