@@ -6,6 +6,7 @@
 - [Question #4](#four): DSMOS has arrived!
 - [Question #5](#five): Isn’t building on top of experiences and thoughts of our ancestors foundation of civilisation? It’s what chat bots are doing kind of
 - [Question #6](#six): I didn't get the point (this came up in conversations over wine)
+- [Question #7](#seven): What is the Chinese room? (also raised at winery)
 
 ### <a name="one">Question #1: What’s the piece of (copy)writing you are most proud of?</a>
 That Get a Mac campaign was the pinnacle of the writing chapter in my career. I resigned my position there for many reasons and it wasn't the proximate cause, but among those reasons was the sense that everything after would be a bit of a let-down. We knew that more consumer devices were coming and we would communicate ideas with fewer words and less geekiness. Steve alluded to this in the iPad 2 video that people don't care about speeds and feeds with these devices. Also there were so many products coming out that people couldn't read the depth of text we wrote for earlier launches, we'd need to have shallower thoughts for people to read more of them conserving the attention. I like going deep as you might discern from my talk.
@@ -59,3 +60,6 @@ I rarely do things for just one reason. I like overloading operators. Here are s
 5. I really need your help to propagate the idea about server solutions compensating for carbon consumption at 2X. You shouldn't just pay for your carbon use but the opportunity cost of that renewable to not be used to offset private jet fuel and cement projects. This is especially true for model training which can take hundreds of runs but also for just more prosaic website hosting. Please advocate for this in your organization.
 6. Don't steal material for training data. Make sure this content is either public domain or has rights cleared. Some people will even let you use your stuff for free, you just have to ask. If you steal, you might get true answers and maybe even right but they won't be good. Intent matters.
 
+### <a name="seven">Question #6</a>: What is the Chinese room? (also raised at winery)
+
+Oh let me add a [link](https://en.wikipedia.org/wiki/Chinese_room) in the resource section.

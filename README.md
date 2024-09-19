@@ -1,6 +1,7 @@
 # nsspain2024
 Resources for my talk "How to do things with words" Sept 18, 2024
 
+
 ## Musings on LLMs 
 - [Initial conversations with ChatGPT](conversation.md)
 - [ChatGPT's summary of that conversation](summary_by_chatGPT.md)
@@ -8,8 +9,12 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 - [Further inquiry](further_inquiry.md)
 - [Suggested Authors](suggested_authors.md)
 
+## Q and A
+- [Questions raised during the talk](QandA.md)
+
 ## Source Material
 - [How to do things with words](https://www.hup.harvard.edu/books/9780674411524)
+- [Chinese Room](https://en.wikipedia.org/wiki/Chinese_room) (I think this is a bit unfortunately named.)
 - [William James lectures](https://en.wikipedia.org/wiki/William_James_Lectures)
 - [Self-reliance](https://en.wikisource.org/wiki/Essays:_First_Series/Self-Reliance)
 - [Civil Disobedience](https://archive.org/details/civil-disobedience/mode/2up)
