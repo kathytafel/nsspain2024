@@ -50,7 +50,7 @@ So absolutely we want to be able to remix culture. But if we want more source ma
 
 I'm pretty ok with using source material from that "Time of the death of the author + 50 years" so think it's fine to ask an AI to pretend to be Thoreau. I wouldn't want it to pretend to be Judith Butler or Cornel West since they are still alive and should have a say in how they are presented at least until they are dead for 50 years. I don't think it should be too hard to write a rule which enforced that, Wikipedia has year of death for most famous dead people.
 
-My more provocative opinion is that some computer scientists don't know how to do creative efforts and don't value the time and effort of authoring, can't write, and need the crutch of AI to form non-academic sentences. NYTimes alludes to the effort of creation when discussing the editorial process in its lawsuit against OpenAI. And some people do something without payment for the credit, this doesn't mean that it's value is nothing. The credit should be respected.
+My more provocative opinion is that some computer scientists don't know how to do creative efforts and don't value the time and effort of authoring, can't write, and need the crutch of AI to form non-academic sentences. NYTimes alludes to the effort of creation when discussing the editorial process in its lawsuit against OpenAI. And some people do something without payment for the credit, this doesn't mean that its value is nothing. The credit should be respected.
 
 Copyright allows fair use for scholarly and critical ends, not wholesale copying of the whole body of work.
 
