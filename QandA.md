@@ -60,6 +60,6 @@ I rarely do things for just one reason. I like overloading operators. Here are s
 5. I really need your help to propagate the idea about server solutions compensating for carbon consumption at 2X. You shouldn't just pay for your carbon use but the opportunity cost of that renewable to not be used to offset private jet fuel and cement projects. This is especially true for model training which can take hundreds of runs but also for just more prosaic website hosting. Please advocate for this in your organization.
 6. Don't steal material for training data. Make sure this content is either public domain or has rights cleared. Some people will even let you use your stuff for free, you just have to ask. If you steal, you might get true answers and maybe even right but they won't be good. Intent matters.
 
-### <a name="seven">Question #6</a>: What is the Chinese room? (also raised at winery)
+### <a name="seven">Question #7</a>: What is the Chinese room? (also raised at winery)
 
 Oh let me add a [link](https://en.wikipedia.org/wiki/Chinese_room) in the resource section.
