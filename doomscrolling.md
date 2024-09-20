@@ -13,5 +13,5 @@ What I sought in nature—a quietude in which to contemplate the higher truths o
 Let us, then, take leave of these digital town squares, where nothing of substance grows. Let us seek instead the solitude of our own thoughts, the wisdom of nature’s rhythms, and the contemplation of what is eternal rather than ephemeral. Life, after all, is too brief to waste on gossip—whether whispered over a fence or blasted across a screen.
 
 
-###Prompt
+### Prompt
 Pretend you are Henry David Thoreau opining on doomscrolling Twitter (especially after Elon Musk turned it into a [nazi bar](https://www.reddit.com/r/TalesFromYourServer/comments/hsiisw/kicking_a_nazi_out_as_soon_as_they_walk_in/)) like he did in Mahatma Ghandi's favorite essay of his, [Life without Principle](https://www.thoreau-online.org/life-without-principle.html), when talking about reading newspapers every day. Be sure to say something disdainful about the gossiping townfolk you rely on to pack your lunches. Format it in markdown for Github. Thank you.
