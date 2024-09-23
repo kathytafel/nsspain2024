@@ -1,9 +1,9 @@
 # Transcript of Conversation on LLMs and Philosophy
 
 ## KT:
-What would J.L. Austin think about the hallucinations of LLMs?
+<a name="hallucinations">What would J.L. Austin think about the hallucinations of LLMs?</a>
 
-## <a name="hallucinations">ChatGPT:</a>
+## ChatGPT:
 J.L. Austin, a key figure in ordinary language philosophy, focused on how language functions in ordinary contexts and how it can be analyzed to reveal underlying concepts and practices. Austin's work often dealt with the use of language in various speech acts and how meaning is derived from context and intention.
 
 In the context of hallucinations in large language models (LLMs), Austin might approach the issue by examining the language and practices surrounding these phenomena. Here’s how he might think about it:
@@ -19,9 +19,9 @@ In the context of hallucinations in large language models (LLMs), Austin might a
 In summary, Austin might approach LLM hallucinations by scrutinizing the linguistic and pragmatic dimensions of the phenomenon. He would be interested in how language is used, how meaning is generated and assessed, and how LLMs fit into the broader context of ordinary language practices.
 
 ## KT:
-Contrast that with what William James would have thought of the usefulness of LLMs.
+<a name="pragmatism">Contrast that with what William James would have thought of the usefulness of LLMs.</a>
 
-## <a name="pragmatism">ChatGPT:</a>
+## ChatGPT:
 William James, the American philosopher and psychologist, is best known for his work in pragmatism and the psychology of consciousness. His approach to evaluating the usefulness of something would be grounded in its practical impact and its capacity to contribute to human experience and understanding. Here’s how James might contrast with Austin in assessing the usefulness of LLMs:
 
 1. **Pragmatic Value**: James’s pragmatism focuses on the practical effects and benefits of ideas and tools. He would likely evaluate LLMs based on their tangible impact on human life and problem-solving. If LLMs provide valuable assistance in tasks like generating text, answering questions, or facilitating communication, James would be interested in how these practical benefits align with his principle that the meaning of an idea or tool is closely tied to its practical outcomes.
@@ -126,7 +126,7 @@ Given these perspectives, to respond to "Know thyself" in the context of using L
 In essence, "you" in this context is an active, reflective individual who engages with LLMs and other tools in a way that is authentic, practical, ethical, and creatively fulfilling. Knowing oneself involves integrating these aspects into a coherent approach to using technology, balancing personal growth with responsible and innovative use of resources.
 
 ## KT:
-Can you substitute ChatGPT for "you" here?
+Can you substitute ChatGPT for "you" here? 
 
 ## <a name="chinese_room">ChatGPT:</a>
 ChatGPT, or any large language model (LLM), cannot be substituted as "you" in the sense of a conscious, self-reflective individual. Here’s an exploration of why that is, and how it relates to the capacities you mentioned:
