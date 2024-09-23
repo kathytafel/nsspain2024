@@ -9,7 +9,7 @@
 - [If you hold all this in mind, how would you respond to the exhortation of the Seven Sages of Delphi to "Know thyself"? Who is "you" in this context?](#delphi)
 - [Can you substitute ChatGPT for "you" here?](#chinese_room)
 
-## KT: <a name="hallucinations">What would J.L. Austin think about the hallucinations of LLMs?</a>
+## KT: <a name="hallucinations"></a>What would J.L. Austin think about the hallucinations of LLMs?
 
 ### ChatGPT:
 J.L. Austin, a key figure in ordinary language philosophy, focused on how language functions in ordinary contexts and how it can be analyzed to reveal underlying concepts and practices. Austin's work often dealt with the use of language in various speech acts and how meaning is derived from context and intention.
@@ -26,7 +26,7 @@ In the context of hallucinations in large language models (LLMs), Austin might a
 
 In summary, Austin might approach LLM hallucinations by scrutinizing the linguistic and pragmatic dimensions of the phenomenon. He would be interested in how language is used, how meaning is generated and assessed, and how LLMs fit into the broader context of ordinary language practices.
 
-## KT: <a name="pragmatism">Contrast that with what William James would have thought of the usefulness of LLMs.</a>
+## KT: <a name="pragmatism"></a>Contrast that with what William James would have thought of the usefulness of LLMs.
 
 ### ChatGPT:
 William James, the American philosopher and psychologist, is best known for his work in pragmatism and the psychology of consciousness. His approach to evaluating the usefulness of something would be grounded in its practical impact and its capacity to contribute to human experience and understanding. Here’s how James might contrast with Austin in assessing the usefulness of LLMs:
