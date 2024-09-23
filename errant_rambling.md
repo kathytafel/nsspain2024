@@ -24,7 +24,7 @@ Each inquiry is unique, but the core themes of understanding human interaction w
 
 ## KT: <a name="novelty"></a>What is the most novel question you've answered on the topic?
 
-## ChatGPT:
+### ChatGPT:
 The most novel questions often arise from interdisciplinary intersections or from fresh perspectives on established topics. Here are a few examples of particularly novel or intriguing questions I’ve encountered related to AI and philosophy:
 
 1. **AI and Existential Risk**: How might AI technologies influence existential risks in novel ways, and what philosophical frameworks could help us navigate these risks? This question combines traditional existential philosophy with modern technological concerns, exploring new dimensions of risk and ethical responsibility.
@@ -45,7 +45,7 @@ These questions illustrate how contemporary issues and technologies can provoke 
 
 ## KT: <a name="precision"></a>I asked for "the most" [with a singular noun] which implies "one""?
 
-## ChatGPT:
+### ChatGPT:
 I see what you mean—let me focus on a single, particularly novel question.
 
 **The Most Novel Question:**
@@ -56,7 +56,7 @@ This question is novel because it explores the intersection of AI technology wit
 
 ## KT: <a name="ouroborous"></a>How can AI-generated content reshape our understanding of personal identity and narrative, and what implications does this have for traditional notions of selfhood and authenticity?
 
-## ChatGPT:
+### ChatGPT:
 The question of how AI-generated content can reshape our understanding of personal identity and narrative, and what implications this has for traditional notions of selfhood and authenticity, is both intriguing and complex. Here’s an exploration of the potential answers:
 
 ### Impact on Personal Identity and Narrative
