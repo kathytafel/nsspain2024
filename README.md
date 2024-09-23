@@ -38,6 +38,7 @@ Resources for my talk "How to do things with words" Sept 18, 2024
 - [Maybeck's first](https://trgtalk.wordpress.com/2014/10/13/still-teaching-its-lessons/)
 - [Johnny Appleseed song](https://www.disneyplus.com/browse/entity-c345991d-d605-4009-81aa-2a6606000e31) Starts at about 14:45 but read warning at the beginning.
 - [Modern interpretation of what Appleseed distributed](https://swedenborg.com/wp-content/uploads/2015/08/OD_Usefulness.pdf)
+- [How to exclude your site from AI](https://sixcolors.com/post/2024/06/excluding-your-website-from-apples-ai-crawler/)
 - [Don't steal music](https://www.flickr.com/photos/dmolsen/227547892)
 
 All files in this github repo are covered by the license in it, which requires attribution: Kathy Tafel.
