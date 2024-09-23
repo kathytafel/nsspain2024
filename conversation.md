@@ -1,7 +1,7 @@
 # Transcript of Conversation on LLMs and Philosophy
 
 
-##Table of contents
+## Table of contents
 - [What would J.L. Austin think about the hallucinations of LLMs](#hallucinations)
 - [Contrast that with what William James would have thought of the usefulness of LLMs.](#pragmatism)
 - [Please synthesize the above with Emerson's thoughts on Self-Reliance and Thoreau on Civil Disobedience.](#transcendentalists)
