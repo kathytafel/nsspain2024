@@ -2,12 +2,12 @@
 
 
 ##Table of contents
-- (What would J.L. Austin think about the hallucinations of LLMs)[https://github.com/kathytafel/nsspain2024/blob/main/conversation.md#kt-what-would-jl-austin-think-about-the-hallucinations-of-llms]
-- (Contrast that with what William James would have thought of the usefulness of LLMs.)
-- (Please synthesize the above with Emerson's thoughts on Self-Reliance and Thoreau on Civil Disobedience.)
-- (Can you weave in something about Bernard Maybeck's Palace of Fine Arts and Sampson Reed's Observations on the Growth of Mind?)
-- (If you hold all this in mind, how would you respond to the exhortation of the Seven Sages of Delphi to "Know thyself"? Who is "you" in this context?)
-- (Can you substitute ChatGPT for "you" here?)
+- [What would J.L. Austin think about the hallucinations of LLMs](#hallucinations)
+- [Contrast that with what William James would have thought of the usefulness of LLMs.](#pragmatism)
+- [Please synthesize the above with Emerson's thoughts on Self-Reliance and Thoreau on Civil Disobedience.](#transcendentalists)
+- [Can you weave in something about Bernard Maybeck's Palace of Fine Arts and Sampson Reed's Observations on the Growth of Mind?](#beauty_and_mind)
+- [If you hold all this in mind, how would you respond to the exhortation of the Seven Sages of Delphi to "Know thyself"? Who is "you" in this context?](#delphi)
+- [Can you substitute ChatGPT for "you" here?](#chinese_room)
 
 ## KT: <a name="hallucinations">What would J.L. Austin think about the hallucinations of LLMs?</a>
 
