@@ -8,6 +8,8 @@
 - [Can you weave in something about Bernard Maybeck's Palace of Fine Arts and Sampson Reed's Observations on the Growth of Mind?](#beauty_and_mind)
 - [If you hold all this in mind, how would you respond to the exhortation of the Seven Sages of Delphi to "Know thyself"? Who is "you" in this context?](#delphi)
 - [Can you substitute ChatGPT for "you" here?](#chinese_room)
+- [ChatGPT's summary of this page](https://github.com/kathytafel/nsspain2024/blob/main/summary_by_chatGPT.md) (Which it gave me initially as a transcript of this page)
+- [Source for this discussion](https://github.com/kathytafel/nsspain2024/blob/main/README.md#source-material)
 
 ## KT: <a name="hallucinations"></a>What would J.L. Austin think about the hallucinations of LLMs?
 
