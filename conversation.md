@@ -2,6 +2,7 @@
 
 
 ##Table of contents
+- (What would J.L. Austin think about the hallucinations of LLMs)[https://github.com/kathytafel/nsspain2024/blob/main/conversation.md#kt-what-would-jl-austin-think-about-the-hallucinations-of-llms]
 - (Contrast that with what William James would have thought of the usefulness of LLMs.)
 - (Please synthesize the above with Emerson's thoughts on Self-Reliance and Thoreau on Civil Disobedience.)
 - (Can you weave in something about Bernard Maybeck's Palace of Fine Arts and Sampson Reed's Observations on the Growth of Mind?)
