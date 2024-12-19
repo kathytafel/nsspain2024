@@ -1,6 +1,7 @@
 # nsspain2024
 Resources for my talk "How to do things with words" Sept 18, 2024
-
+- [Vimeo](https://vimeo.com/showcase/11503067/video/1011659869)
+- [Keynote file](KathyTafel.NSSpain2024.zip)
 
 ## Musings on LLMs 
 - [Initial conversations with ChatGPT](conversation.md)
