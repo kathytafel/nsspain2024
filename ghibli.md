@@ -1,4 +1,4 @@
-# **User:**  
+# **Prompt:**  
 I've noticed a few illustrations in the past few days attributed to ChatGPT in the Studio Ghibli style. The original artist of this style is against using AI-generated art. Donald Trump and the White House are using such ChatGPT Ghibli imagery to propagandize fascist deportations, dehumanizing the victims.  
 
 A human artist would be able to say no to using their art for this purpose—many artists refuse to license music to Trump, for instance—but ChatGPT wouldn't say no, even if Miyazaki, the original studio visionary artist and union organizer, would never have agreed to this use.  
